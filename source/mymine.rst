@@ -24,4 +24,5 @@ Account Details - User preferences form.
    :width: 696
    :alt: MyMine Home
    :figclass: align-center
-..
+ ..
+

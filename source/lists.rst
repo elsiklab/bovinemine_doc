@@ -28,7 +28,7 @@ As an example, enter the following comma-separated identifiers into the Lists up
 
 ::
 
-105503010, KCNK1, STAT5A, BTG1, ENSBTAG00000006858
+	105503010, KCNK1, STAT5A, BTG1, ENSBTAG00000006858
 
 
 Leave the **Select Type** drop-down menu to **Gene** and the **Organism** drop-down to **Any**.  Click on **Create List**.  Note that you can also upload a list from a .txt file.
