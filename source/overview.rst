@@ -3,7 +3,7 @@ Overview of BovineMine
 
 This section provides a brief overview of the layout for BovineMine.
 
- .. image:: images/BovineMine-banner.png
+.. image:: images/BovineMine-banner.png
 
 The navigation panel highlights different functionalities of BovineMine.
 
@@ -24,5 +24,7 @@ The navigation panel highlights different functionalities of BovineMine.
  **Help** - Links to the BovineMine help docs and tutorials
 
  **API** - Describes the InterMine API that allows users to programmatically access BovineMine.
+
+ **BGD Blast** – Links to a Blast page where users may BLAST their sequence(s) of interest with the Bos taurus reference genome and CDS sequences.
 
 ..
